@@ -24,7 +24,7 @@ print(req.text)
 
 ## how to use
 
-It's the simplest thing ever. Here's an example using **Python**:
+It's the simplest thing ever. Here's an example using **Python**: *(this won't get updated automaticly when gd gets updated, as this repo is updated manually)*
 
 ```py
 import requests
