@@ -31,6 +31,8 @@ import requests
 req = requests.get("https://geming400.github.io/gd-version/")
 print(req.json())
 # returns:
-# {"game_version": 22,
-# "binary_version": 42}
+# {
+#   "game_version": 22,
+#   "binary_version": 42
+# }
 ```
