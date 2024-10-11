@@ -21,3 +21,16 @@ data = {
 req = requests.post("http://www.robtopgames.org/database/accounts/backupGJAccountNew.php", data=data)
 print(req.text)
 ```
+
+## how to use
+
+It's the simplest thing ever. Here's an example using **Python**:
+
+```py
+import requests
+req = requests.get("https://geming400.github.io/gd-version/")
+print(req.json())
+# returns:
+# {"game_version": 22,
+# "binary_version": 42}
+```
