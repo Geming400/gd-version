@@ -13,7 +13,7 @@ data = {
     "userName": "APIAccount",
     "password": "********", # This would be APIAccount's password
     "gameVersion": 22,
-    "binaryVersion": 42,
+    "binaryVersion": 44,
     "saveData": "H4sIAAAAAAAAA8VaWXObSBD[...]",
     "secret": "Wmfv3899gc9"
 }
