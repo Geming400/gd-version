@@ -33,6 +33,6 @@ print(req.json())
 # returns:
 # {
 #   "game_version": 22,
-#   "binary_version": 42
+#   "binary_version": 44
 # }
 ```
